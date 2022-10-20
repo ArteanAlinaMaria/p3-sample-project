@@ -9,7 +9,7 @@ public class Main {
         InputDevice id = new InputDevice();
         OutputDevice od = new OutputDevice();
         Application app = new Application(id, od);
-
+        //Ceva
         app.run();
     }
 }
